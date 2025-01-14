@@ -3,6 +3,8 @@
 ### Logging my Smart Contract Auditing journey in 2025 to hold myself accountable. 
 ### Inspired by 0xaudron's 50 days of Crushing Audits [https://github.com/0xaudron/50-days-of-crushing-audits]
 
+---
+
 ### Week 1 (29 Dec - 4 Jan):
 
 This was the holiday season, not too much work done due to festivities with friends and family. Retrospectively logging this so might have left out some stuff
