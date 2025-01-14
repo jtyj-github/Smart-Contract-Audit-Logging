@@ -37,11 +37,11 @@ What did I learnt new ?
 
 ### Week 2 (12 Jan - 15 Jan):
 
-👨🏻‍💻 Auditing hmx-orderbook @Cantina (8hrs) : Unable to identify any issues so far
+👨🏻‍💻 Auditing hmx-orderbook @Cantina (8 hrs) : Unable to identify any issues so far
 
-👨‍🏫 Read rust book to learn a bit about rust syntax () : https://doc.rust-lang.org/book/
+👨‍🏫 Read rust book to learn a bit about rust syntax (8 hrs) : https://doc.rust-lang.org/book/
 
-👨‍🏫 Watched videos on Rust error handling and security vulnerabilities from @guvenkaya_sec () : https://www.youtube.com/playlist?list=PL7Gwuo_MOL740lhKTvouCJvk4sAyuqZqT 
+👨‍🏫 Watched videos on Rust error handling and security vulnerabilities from @guvenkaya_sec (1 hr) : https://www.youtube.com/playlist?list=PL7Gwuo_MOL740lhKTvouCJvk4sAyuqZqT 
 
 What did I learnt new ? 
 - Rust and how it is used for Smart Contracts 
