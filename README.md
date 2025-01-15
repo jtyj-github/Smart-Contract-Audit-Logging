@@ -48,3 +48,11 @@ What did I learnt new ?
 What did I learnt new ? 
 - Rust and how it is used for Smart Contracts 
 - central limit order books (from hmx-orderbook)
+
+---
+
+### 16 Jan:
+
+👨🏻‍💻 Audit hmx-orderbook @Cantina (2 hrs) :
+- Deep dive on bitwise calculations 
+- Understanding how the pricing mechanism works
