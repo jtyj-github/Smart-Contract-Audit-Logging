@@ -47,4 +47,4 @@ What did I learnt new ?
 
 What did I learnt new ? 
 - Rust and how it is used for Smart Contracts 
-- Perpetuals/Futures Markets (from hmx-orderbook)
+- central limit order books (from hmx-orderbook)
