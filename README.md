@@ -52,7 +52,23 @@ What did I learnt new ?
 ---
 
 ### 16 Jan:
-
+Slower day due to full-time job
 👨🏻‍💻 Audit hmx-orderbook @Cantina (2 hrs) :
 - Deep dive on bitwise calculations 
 - Understanding how the pricing mechanism works
+
+---
+
+### 17 Jan:
+Slower day due to full-time job
+👨🏻‍💻 Audit hmx-orderbook @Cantina (2 hrs) :
+- Focused on deep understanding of business logic instead of individual functions
+
+---
+
+### 18 Jan:
+
+👨🏻‍💻 Audit hmx-orderbook @Cantina (6 hrs) :
+- Focused on complex functions + overall flow
+- ❗️❗️ Found 2 potential High sev issues 
+
